@@ -1,4 +1,4 @@
-Adaptive-Access-Layers-CSharp
+Adaptive Access Layers
 =============================
 
 Taken from http://aal.codeplex.com
